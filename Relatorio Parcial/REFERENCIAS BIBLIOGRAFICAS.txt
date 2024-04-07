@@ -1,0 +1,47 @@
+REFERENCIAS BIBLIOGRAFICAS
+
+PARA :
+
+>> RELATORIO PARCIAL:
+
+CITAÇÃO: 
+Off-Topic- O Programador Humilde, por Edsger W. Dijkstra
+12 Abril 2010, 08:49 h, 
+ https://www.akitaonrails.com/2010/04/12/off-topic-o-programador-humilde-por-edsger-w-dijkstra
+
+SISTEMA WEB-BDA-PROGRAÇÃO:
+>>>>>>>Desenvolvimento do Formulario
+Programação Web - Dimitri Teixeira
+https://www.youtube.com/watch?v=ZmaBaS5VroQ&t=1653s
+
+https://www.youtube.com/watch?v=VCsNIRXNsmY
+https://github.com/Gutoneitzke/formulario-html-css
+
+REFERÊNCIAS
+REFERÊNCIAS
+
+.
+
+DESENVOLVIMENTO DE SISTEMAS WEB E-book. (s.d.). Biblioteca digital Senac. Acesso em 04 de 04 de 2024, disponível em Ebook-: https://www.bibliotecadigitalsenac.com.br/?from=busca%3FcontentInfo%3D4432%26term%3Ddesenvolvedor%252520web&page=1&section=0#/legacy/4432
+
+Dijkstra, E. (12 de Abril de 2010). AkitaOnRails . Fonte: akitaonrails: https://www.akitaonrails.com/2010/04/12/off-topic-o-programador-humilde-por-edsger-w-dijkstra
+
+KIERAS, R. W. (2019). riut.utfpr.edu.br. (T. D. CURSO, Ed.) Acesso em 2024 Fonte: https://riut.utfpr.edu.br/jspui/bitstream/1/16826/1/PG_COADS_2019_1_02.pdf
+
+MYSQL. (2024 de 03 de 2024). dev.mysql.com. Fonte: MYSQL: https://dev.mysql.com
+
+Neitzke, G. (10 de 03 de 2024). www.youtube.com. Fonte: Youtube: https://www.youtube.com/watch?v=VCsNIRXNsmY
+
+Neitzke, G. (10 de 03 de 2024). www.youtube.com. Fonte: Youtube: https://github.com/Gutoneitzke/formulario-html-css
+
+Web, D. T. (11 de 03 de 2024). www.youtube.com. Fonte: Youtube: https://www.youtube.com/watch?v=ZmaBaS5VroQ&t=1653s
+
+AGENDAMENTO de entrega e coleta: prós e contras. [S.l.]. (30 de 03 de 2024). www.fretefy.com.br. Fonte: https://www.fretefy.com.br/blog/agendamento-de-entrega-e-coleta-pros-e-contras
+
+ABNT – Associação Brasileira de Normas Técnicas. NBR 14724: Informação e documentação. Trabalhos Acadêmicos - Apresentação. Rio de Janeiro: ABNT, 2002
+
+
+
+
+________________________________________________________________________
+*********************************************************
